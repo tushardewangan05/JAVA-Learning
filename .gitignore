@@ -1,0 +1,4 @@
+.idea/
+production/
+*.class
+*.run.xml
