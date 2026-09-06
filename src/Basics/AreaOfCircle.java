@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class AreaOfCircle{
-    static void main() {
+    public static void main(String[] args) {
         //Area of circle? pi*r*r
 //        int r = 9;
 //        System.out.println(3.141592 * r * r);

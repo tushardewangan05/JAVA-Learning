@@ -1,7 +1,7 @@
 package Basics;
 
 public class VariablesBasics {
-    public static void main() {
+    public static void main(String[] args) {
         int x;
         x = 5; //decleation
         System.out.println(x);
