@@ -20,7 +20,12 @@ public class CharDataType {
         char harsh = '3';
         System.out.println((int)harsh);
 
-        char ch = 'b';
-        System.out.println(ch+0);
+//        char ch = 'b';
+//        System.out.println(ch+0);
+
+//        int x = 32;
+//        char ch = (char)x;
+//        System.out.println(ch);
+        
     }
 }
