@@ -20,9 +20,9 @@ public class IncrementDecrement {
 //        --x;
 //        System.out.println(x);
 
-//        System.out.println(x++);
-//        System.out.println(x);
-//        System.out.println(++x);
+        System.out.println(x++);
+        System.out.println(x);
+        System.out.println(++x);
 
 //        int x = 10;
 //        int y = x++; // y = 10;
