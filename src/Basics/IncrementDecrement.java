@@ -28,6 +28,6 @@ public class IncrementDecrement {
 //        int y = x++; // y = 10;
 //        System.out.println(x+" "+y);
 
-        int y = x++; // y = 10; System.out.println(x+" "+y);
+        int y = x++; System.out.println(x+" "+y);
     }
 }
