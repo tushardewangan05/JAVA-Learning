@@ -23,9 +23,9 @@ public class CharDataType {
 //        char ch = 'b';
 //        System.out.println(ch+0);
 
-//        int x = 32;
-//        char ch = (char)x;
-//        System.out.println(ch);
-        
+        //Integer to character
+        int x = 32;
+        char ch = (char)x;
+        System.out.println(ch);
     }
 }
