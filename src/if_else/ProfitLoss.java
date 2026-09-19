@@ -9,9 +9,8 @@ public class ProfitLoss {
         int cp = sc.nextInt();
         System.out.print("Enter SP: ");
         int sp = sc.nextInt();
-
-        if(sp > cp) System.out.println("Profit");
-        if(cp > sp) System.out.println("Loss");
-        if(cp == sp) System.out.println("No Profit No Loss");
+         if(sp>cp) System.out.println("Profit is " +(sp-cp));
+         if(cp>sp) System.out.println("Loss is " +(cp-sp));
+         if(sp==cp) System.out.println("No Loss No Profit");
     }
 }
