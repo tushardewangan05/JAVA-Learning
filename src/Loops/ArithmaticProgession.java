@@ -12,7 +12,7 @@ public class ArithmaticProgession {
 //            System.out.print(i);
 
             //Without using formula
-            int a = 2, d = 3;
+            int a = 3, d = 6;
              for(int i = 1; i<=n; i++){
                  a += d;
                  System.out.print(a+" ");
