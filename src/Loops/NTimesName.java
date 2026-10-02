@@ -2,7 +2,7 @@ package Loops;
 
 import java.util.Scanner;
 
-public class NTimesNmae {
+public class NTimesName {
     public static void main(String[] args) {
         Scanner sb= new Scanner(System.in);
         System.out.println("Enter number: ");
