@@ -10,7 +10,7 @@ public class DigitsOfNumber {
         while(n!=0){
             n/=10;
             count++;
-            System.out.println();
         }
+        System.out.print(count);
     }
 }
