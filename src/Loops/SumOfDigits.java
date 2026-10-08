@@ -11,6 +11,6 @@ public class SumOfDigits {
             sum +=(n%10);
             n/=10;
         }
-        System.out.println(sum);
+        System.out.println((sum>0) ? sum : -sum);
     }
 }
