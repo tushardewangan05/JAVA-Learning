@@ -2,7 +2,7 @@ package PatternPrinting;
 
 import java.util.Scanner;
 
-public class NumberFlipped {
+public class FlippedNumbers {
     public static void main(String[] args) {
         Scanner sb = new Scanner(System.in);
         int n = sb.nextInt();
