@@ -10,5 +10,6 @@ public class BuiltIn {
         System.out.println(Math.floor(-3.12));
         System.out.println(Math.ceil(4.12));
         System.out.println(Math.min(2,6));
+        System.out.println(Math.max(2,6));
   }
 }
