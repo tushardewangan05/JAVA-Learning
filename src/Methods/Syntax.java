@@ -1,5 +1,23 @@
 package Methods;
 
+//public class Syntax {
+//    public static void shravan() {
+//        karan();
+//        System.out.println("Khushi");
+//    }
+//
+//    public static void main(String[] args) {
+//        riyanshi();
+//    }
+//    public static void karan() {
+//        System.out.println("YASHIKA");
+//    }
+//    public static void riyanshi() {
+//        System.out.println("Ajay");
+//        shravan();
+//    }
+//}
+
 public class Syntax {
     public static void shravan() {
         karan();
@@ -13,6 +31,8 @@ public class Syntax {
         System.out.println("YASHIKA");
     }
     public static void riyanshi() {
+        karan();
+        shravan();
         System.out.println("Ajay");
         shravan();
     }
