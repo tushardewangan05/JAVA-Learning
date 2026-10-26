@@ -1,4 +1,4 @@
-git stpackage Loops;
+package Loops;
 
 import java.util.Scanner;
 
