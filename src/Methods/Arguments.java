@@ -7,6 +7,6 @@ public class Arguments {
         else return c;
     }
     public static void main(String[] args) {
-        System.out.println(max(6,8,9));
+        System.out.println(max(2,4,9));
     }
 }
