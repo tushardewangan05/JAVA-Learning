@@ -1,4 +1,4 @@
-package if_else;
+gopackage if_else;
 
 import java.util.Scanner;
 
