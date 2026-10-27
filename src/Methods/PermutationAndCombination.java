@@ -7,5 +7,10 @@ public class PermutationAndCombination {
         Scanner sb = new Scanner(System.in);
         int n = sb.nextInt();
         int r = sb.nextInt();
+
+        int nFact = 1;
+        for(int i=1; i<=n; i++){
+            
+        }
     }
 }
