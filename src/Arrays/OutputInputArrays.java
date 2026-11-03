@@ -21,6 +21,7 @@ public class OutputInputArrays {
             int x = sb.nextInt();
             karan[i] = x;
         }
+//        print
         for(int i=0; i<7; i++){
             System.out.print(karan[i]+" ");
         }
