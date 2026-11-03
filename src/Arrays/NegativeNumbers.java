@@ -12,7 +12,7 @@ public class NegativeNumbers {
         for(int i=0; i<n; i++)
             arr[i] = sb.nextInt();
 
-        //Printing negative values
+        //Printing Negative values
         for(int i=0; i<n; i++)
            if(arr[i]<0) System.out.print(arr[i]+" ");
     }
